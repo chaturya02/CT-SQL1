@@ -56,3 +56,7 @@ C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\Backup\
   - `Production.Product`
 
 ---
+
+Refer to:
+- 📖 [Official Microsoft Docs – AdventureWorks](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
+- 📘 [GeeksforGeeks AdventureWorks Install Guide](https://www.geeksforgeeks.org/installation-guide/how-to-download-and-install-adventureworks-database-in-sql/?utm_source=chatgpt.com)
