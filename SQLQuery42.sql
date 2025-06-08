@@ -1,0 +1,1 @@
+SELECT SUM(LineTotal) AS TotalRevenue FROM Sales.SalesOrderDetail;
